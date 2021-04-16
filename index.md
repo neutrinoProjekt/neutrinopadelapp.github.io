@@ -1,9 +1,9 @@
-## Welcome to the info page of Neutrino's Paddle App Project
+## Welcome to the info page of Neutrino's Padel App Project
 
-### Paddle app
+### Padel app
 
-(NAME) is a paddle pals matching app designed to allow hobby-players to find game partners based on the ranking and to orginize the matches with them. 
-Moreover, the app gives an further opportunity to book the paddle court and save the results of each game directly in your mobile phone.
+(NAME) is a padel pals matching app designed to allow hobby-players to find game partners based on the ranking and to orginize the matches with them. 
+Moreover, the app gives an further opportunity to book a padel court and save the results of each game directly in your mobile phone.
 
 ### Developers:
 
