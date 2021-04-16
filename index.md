@@ -35,9 +35,7 @@ To be updated...
 
 ### Product backlog using Miro
 
-Link and screenshot are coming
-
-[Backlog](https://miro.com/app/board/o9J_lKYHyGQ=/)
+Link to the [backlog](https://miro.com/app/board/o9J_lKYHyGQ=/).
 
 ### Support or Contact 
 
