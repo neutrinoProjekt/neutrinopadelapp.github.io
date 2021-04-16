@@ -37,6 +37,8 @@ To be updated...
 
 Link and screenshot are coming
 
+[Backlog](https://miro.com/app/board/o9J_lKYHyGQ=/)
+
 ### Support or Contact 
 
 neutrinopaddleappKTH@gmail.com
