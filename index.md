@@ -33,4 +33,4 @@ neutrinopaddleappKTH@gmail.com
 
 ### Link to our product
 
-Developing of the product is in progress. 
+Development of the product is in progress. 
