@@ -27,8 +27,11 @@ Another possible alternative for a user is a person who has just started playing
 
 #### Sprint 1 (19-04-2021)
 ```markdown
-  **Sprint goal**: implement the stories to be able to register, log in, create a basic event and find buddies to play with
-  **Stories:**
+  Sprint goal:
+  
+  implement the stories to be able to register, log in, create a basic event and find buddies to play with
+  
+  Stories:
   - initial setup
   - login
   - create basic event
