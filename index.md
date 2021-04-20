@@ -2,7 +2,7 @@
 
 ### Padel app
 
-(NAME) is a padel pals matching app designed to allow hobby-players to find game partners based on the ranking and to orginize the matches with them. 
+(NAME) is a padel pals matching app designed to allow hobby-players to find game partners based on their ranking. 
 Moreover, the app gives an further opportunity to book a padel court and save the results of each game directly in your mobile phone.
 
 ### Users
